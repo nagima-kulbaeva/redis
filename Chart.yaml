@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: 6.0.6
+description: A Helm Chart for Redis by Nagima
+type: application
+name: web
+version: 1.0.0
